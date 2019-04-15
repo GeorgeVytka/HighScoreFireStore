@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008402642007",
+    "firebase_url": "https://triviahighscore.firebaseio.com",
+    "project_id": "triviahighscore",
+    "storage_bucket": "triviahighscore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008402642007:android:60cfa274d12080c5",
+        "android_client_info": {
+          "package_name": "com.example.triviahighscore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008402642007-fp2vtjtnbboh0od0mr4c8d2nq1r3pjah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.triviahighscore",
+            "certificate_hash": "e9c51388ae571928c0ca914323cd32e813d1949e"
+          }
+        },
+        {
+          "client_id": "1008402642007-f2vb952p67fnq2uoi1fk8faqs1ii4m3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWj9LfVUH00Ck28Ep6PwPZTheL6ACJ94g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008402642007-f2vb952p67fnq2uoi1fk8faqs1ii4m3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
